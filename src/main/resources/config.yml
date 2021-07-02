@@ -1,0 +1,10 @@
+# Bows plugin by frosty#9999 / https://github.com/egirlfrosty.
+
+# This tells the plugin if the arrow damage should be modified!
+modify-damage: true
+# Amount of damage the arrow deals.
+arrow-damage: 5
+# This is in ticks... Remember one second is 20 Ticks.
+shot-cooldown: 40
+# This is the jump boost duration in ticks.
+jumpboost-duration: 40

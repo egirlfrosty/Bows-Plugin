@@ -1,0 +1,10 @@
+name: Bows
+version: ${project.version}
+main: me.frosty.BowsPlugin
+api-version: 1.17
+authors: [ frosty ]
+description: london abuses me and hes mean to me and i am crying (i was forced to make this help me :c).
+
+commands:
+  bows:
+    description: Bows command.
